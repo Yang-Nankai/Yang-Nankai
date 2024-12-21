@@ -32,9 +32,6 @@ I'm a first-year security researcher. My research interests include browser exte
 
 #### Top Repositories
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Yang-Nankai/SE2FA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yang-Nankai&repo=SE2FA&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yang-Nankai&repo=Browser-Extension-List&theme=buefy" />
 </a>
